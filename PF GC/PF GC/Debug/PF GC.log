@@ -1,0 +1,176 @@
+﻿Build started 11/14/2018 12:50:52 AM.
+     1>Project "C:\Users\nelso\Downloads\PF GC\PF GC\PF GC\PF GC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\transforms.h(142): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\vectorrr.h(49): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(47): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(50): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(53): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(54): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(56): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(203): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(204): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\geometrias.h(205): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\imagenes.h(61): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\imagenes.h(80): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\skydome.h(47): warning C4101: 'indice' : unreferenced local variable
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\terreno.h(73): warning C4101: 'indice' : unreferenced local variable
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\niebla.h(16): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\niebla.h(17): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\niebla.h(18): warning C4305: '=' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\water.h(65): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(73): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(80): warning C4244: 'argument' : conversion from 'GLdouble' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(83): warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(84): warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(117): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(122): warning C4244: 'argument' : conversion from 'GLdouble' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(125): warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\billboard.h(126): warning C4244: '*=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(45): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(46): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(136): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(157): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(165): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(266): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(369): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(369): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(371): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(384): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(384): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(386): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(410): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(412): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(436): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(441): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(447): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(454): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(459): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(462): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(475): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(477): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(483): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(485): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(491): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(493): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(499): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(501): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(540): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(541): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(545): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(550): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(556): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(563): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(572): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(573): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(609): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(617): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(625): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(633): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(641): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(649): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(657): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(722): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(728): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(734): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(741): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(751): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(753): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(755): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(757): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(820): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(822): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(824): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(829): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(831): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(837): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(839): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(845): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(847): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(853): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(855): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(860): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(862): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(869): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(871): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(883): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(885): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(897): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(899): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(906): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(908): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(920): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(922): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(926): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(927): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(928): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(937): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(939): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(943): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(944): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(945): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(957): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(972): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(972): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(977): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(979): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1022): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1024): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1026): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1108): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1243): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1244): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1279): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1280): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1315): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1316): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1326): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1362): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1364): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1370): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1464): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1465): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1486): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1495): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1497): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1506): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1508): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1541): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1542): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1546): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1547): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1576): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1577): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1581): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1583): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1589): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1609): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1621): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1623): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1638): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1663): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1781): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1838): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1840): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\main.cpp(102): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\main.cpp(307): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\main.cpp(319): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\main.cpp(328): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1137): warning C4715: 'Escena::check_colisions' : not all control paths return a value
+     1>c:\users\nelso\downloads\pf gc\pf gc\pf gc\escena.h(1103): warning C4715: 'Escena::box_collision' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nelso\Downloads\PF GC\PF GC\Debug\PF GC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\nelso\Downloads\PF GC\PF GC\Debug\PF GC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nelso\Downloads\PF GC\PF GC\Debug\PF GC.lib" /MACHINE:X86 "Debug\PF GC.res"
+         Debug\BMPLoader.obj
+         Debug\glm.obj
+         Debug\Main.obj
+         Debug\Model.obj
+         PF GC.vcxproj -> C:\Users\nelso\Downloads\PF GC\PF GC\Debug\PF GC.exe
+     1>Done Building Project "C:\Users\nelso\Downloads\PF GC\PF GC\PF GC\PF GC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.53
