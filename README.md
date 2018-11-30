@@ -1,14 +1,14 @@
 ## Pick Souls
 
-##Project description: 
+### Project description: 
 - 3D game where you are a crow with the objective to pick up souls from corpses while dodging attacks from a hydra. 
 
-## I made everything except: 
+### I made everything except: 
 - 3D models of the trees. 
 - Base images 
 - Base music and sounds. 
 
-## Tools I used: 
+### Tools I used: 
 - Visual Studio.
 - C++.
 - OpenGL.
@@ -16,7 +16,7 @@
 - 3dsMax.
 - Gimp.
 
-## Important features: 
+### Important features: 
 - Height map based terrain.
 - Dynamic fog.
 - Basic animations.
